@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780036811467",
+    "project_id": "somgram-5a443",
+    "storage_bucket": "somgram-5a443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780036811467:android:f9c8b6b5f443f30811494e",
+        "android_client_info": {
+          "package_name": "com.example.somGram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780036811467-7nipb8vkn4ott0984ji89dm4p44jhbhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7vv0J42JAO0H5LcbGf-aBCWwlN_1CC2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780036811467-7nipb8vkn4ott0984ji89dm4p44jhbhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
